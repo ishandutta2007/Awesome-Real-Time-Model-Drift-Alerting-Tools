@@ -50,9 +50,9 @@ Below is a detailed comparative breakdown of leading commercial SaaS platforms f
 
 ## 💻 Open-Source GitHub Projects
 
-Explore top self-hosted and open-source software solutions for real-time model monitoring, statistical drift detection, data logging, and alert routing. Repositories are sorted by GitHub Star Count (descending).
+Explore top self-hosted and open-source software solutions for real-time model monitoring, statistical drift detection, data logging, and alert routing. Repositories are sorted by GitHub Stars_Count (descending).
 
-| 📦 Repository & Description | ⭐ Stars Badge | 🛠️ Tech Stack & Drift Detection Highlights |
+| 📦 Repository & Description | ⭐ Stars_Badge | 🛠️ Tech Stack & Drift Detection Highlights |
 | :--- | :--- | :--- |
 | **[Langfuse](https://github.com/langfuse/langfuse)** <br> Open-source LLM engineering platform offering end-to-end tracing, evaluation, cost tracking, latency monitoring, and drift alerting for LLMs and agent workflows. | [![Langfuse Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers) | TypeScript, Python, PostgreSQL • Real-Time Tracing, Cost/Latency Drift & Eval Alerts |
 | **[Great Expectations](https://github.com/great-expectations/great_expectations)** <br> The leading open-source data quality and pipeline validation standard. Automates statistical profiling, data drift testing, and schema validation across batch and streaming pipelines. | [![Great Expectations Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers) | Python, SQL, Spark • Automated Data Profiling, Test Suites & CI/CD Pipeline Gates |
@@ -118,7 +118,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. 🍴 **Fork the repository**
 2. 📝 **Add or update entries** in `README.md` (keep formatting consistent with existing tables)
-3. 📌 **Include essential details**: Name, website/repo link, verified pricing or live star badges, and concise capabilities.
+3. 📌 **Include essential details**: Name, website/repo link, verified pricing or live Stars_Badges, and concise capabilities.
 4. 📬 **Submit a Pull Request** with a brief summary of additions.
 
 Star the repo if you find it useful! ⭐
